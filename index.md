@@ -5,7 +5,7 @@
 ### UI/UX Design 
 
 [Poster Design](https://www.figma.com/file/pLskBTZBdex13pq3FxNC1t/162-final-assignment-poster?node-id=0%3A1)
-<img src="images/Screen Shot 2022-07-29 at 9.50.50 PM.png"/>
+<img src="images/Tabloid - 4.png"/>
 
 ---
 [Website Duplicated](https://nw5wlf.axshare.com)

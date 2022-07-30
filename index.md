@@ -5,7 +5,7 @@
 ### UI/UX Design 
 
 [Poster Design]
-<img src="Tabloid - 4.pdf"/>
+<img src="images/Tabloid - 4.pdf"/>
 
 ---
 [Website Duplicated](https://nw5wlf.axshare.com)

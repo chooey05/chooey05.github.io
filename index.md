@@ -4,11 +4,11 @@
 
 ### UI/UX Design 
 
-[Poster Design](/sample_page)
+[Poster Design]<br>(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Website Duplicated](https://nw5wlf.axshare.com)
+[Website Duplicated]<br>(https://nw5wlf.axshare.com)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

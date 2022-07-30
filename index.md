@@ -5,7 +5,7 @@
 ### UI/UX Design 
 
 [Poster Design]
-<img src="images/Tabloid - 4.pdf"/>
+<img src="images/Screen Shot 2022-07-29 at 9.50.50 PM.png"/>
 
 ---
 [Website Duplicated](https://nw5wlf.axshare.com)
